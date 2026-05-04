@@ -2,6 +2,8 @@
 presentation/An_geospatial_rmed_files/
 presentation/An_geospatial_rmed.qmd
 presentation/ctsc_theme.scss
+presentation/slides.scss
+presentation/rstudio_default-light.theme
 presentation/img/
 
 # History files
