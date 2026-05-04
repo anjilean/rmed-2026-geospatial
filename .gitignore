@@ -1,3 +1,9 @@
+# quarto files
+presentation/An_geospatial_rmed_files/
+presentation/An_geospatial_rmed.qmd
+presentation/ctsc_theme.scss
+presentation/img/
+
 # History files
 .Rhistory
 .Rapp.history
