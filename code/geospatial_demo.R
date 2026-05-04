@@ -17,7 +17,7 @@ options(scipen = 999)
 # load cancer data and clean
 cancer <- read_csv("data/cancer_by_state_2003_2022.csv") 
 
-# load contiguous US states from {maps}
+# load contiguous US states 
 
 # join US states with cancer data
 
@@ -58,7 +58,7 @@ nyc_supermarkets <- st_read("data/shapefiles/nyc_supermarkets")
 
 # map point data
 
-# join with NYBB
+# join with nybb
 
 # more features
 
